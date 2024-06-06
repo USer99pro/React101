@@ -1,10 +1,10 @@
 # Install nodejs 
 ## [Install Nodejs](https://nodejs.org/en)
 
-# Chack Insall node
+# Check Insall node
 ```
-node -v //chack node version
-npm -v //chack npm version
+node -v //check node version
+npm -v //check npm version
 ```
 ![Screenshot 2024-06-05 162120](https://github.com/USer99pro/React101/assets/170594967/89c72ec2-612d-4ca4-a012-8e7e9726d214)
 
